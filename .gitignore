@@ -1,0 +1,6 @@
+venv/
+AmazonRootCA1.pem
+AmazonRootCA3.pem
+private.pem.key
+public.pem.key
+certificate.pem.crt

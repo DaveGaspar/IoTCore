@@ -1,0 +1,4 @@
+gpiod==2.3.0
+gpiodevice==0.0.5
+pms5003==1.0.1
+pyserial==3.5
