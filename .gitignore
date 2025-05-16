@@ -4,3 +4,4 @@ AmazonRootCA3.pem
 private.pem.key
 public.pem.key
 certificate.pem.crt
+*.log
